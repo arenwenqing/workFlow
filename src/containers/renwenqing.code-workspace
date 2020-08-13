@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/renwenqing/code/Workflow"
+		},
+		{
+			"path": "/Users/renwenqing/code/my-react"
+		}
+	],
+	"settings": {
+		"vetur.validation.template": false
+	}
+}
